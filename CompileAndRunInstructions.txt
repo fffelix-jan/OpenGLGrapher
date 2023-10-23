@@ -1,0 +1,14 @@
+You will need Visual Studio 2019.
+First, follow the steps here to install OpenGL GLUT on your computer:
+https://www.geeksforgeeks.org/how-to-setup-opengl-with-visual-studio-2019-on-windows-10/
+
+Then, restart your computer.
+
+You should be able to run the program simply by going to the Release folder and
+running "OpenGLGrapher.exe". The instructions are shown when you start the program.
+
+Make sure the platform when compiling is "x86".
+
+Happy Chinese New Year!
+
+-Felix An
